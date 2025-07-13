@@ -1,0 +1,54 @@
+/* NAV BAR MEDIA QUERRY */
+@media (max-width:55rem){
+ html{
+    font-size: 50%;
+ }
+
+.african-women{
+    height:35rem ;
+    width: 45rem;  
+}
+.african-women-homepage{
+  position: absolute;
+  top: 25rem;
+  left:69rem ;
+}
+.empty-white{
+    height: 30rem;
+    width: 20rem;
+    background-color: white;
+    border-top-left-radius: 2rem;
+    border-top-right-radius: 2rem;
+    position: absolute;
+    top: 32rem;
+   right: 18rem;
+    left:84rem;
+}
+}
+@media (max-width:45rem){
+ html{
+    font-size: 37.5%;
+ }
+}
+@media (max-width:34rem){
+   html{
+    font-size: 25%;
+   }
+   .Home-page-fulldiv{
+    height: 80rem;
+    width: 100%;
+    background-color:rgb(55, 55, 157) ;
+    border-radius: 20px;   
+    position:static;
+}
+.homepage-main-child{
+    padding-left: 7rem;
+    padding-top: 7rem; 
+    gap: 2rem;
+     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+}
+}
+
